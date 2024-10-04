@@ -3,7 +3,7 @@ This project is made by gamerscripter
 
 ### Script
 ```lua
-soon
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/loader"))()
 ```
 
 # Supported Games
