@@ -7,23 +7,24 @@ soon
 ```
 
 # Supported Games
+- Universal  (Not Released)
 
-- 30008
+- 30008 (Not Released)
 
-- Brookhaven RP
+- Brookhaven RP (Not Released)
 
-- Build A Boat
+- Build A Boat (Not Released)
 
-- Cart Ride Around Nothing
+- Cart Ride Around Nothing (Not Released)
 
-- Cart Ride Into Rtide
+- Cart Ride Into Rtide (Not Released)
 
-- Kat
+- Kat (Not Released)
 
-- Legends Of Speed
+- Legends Of Speed (Not Released)
 
-- Natural Disasters
+- Natural Disasters (Not Released)
 
-- Tower Of Hell
+- Tower Of Hell (Not Released)
 
-- Trench War
+- Trench War (Not Released)
