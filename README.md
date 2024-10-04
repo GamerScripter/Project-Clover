@@ -1,58 +1,29 @@
 # Project Clover
+This project is made by gamerscripter
 
-### Universal
+### Script
 ```lua
 soon
 ```
 
-# Games
+# Supported Games
 
-### 3008
-```lua
-soon
-```
+- 30008
 
-### Brookhaven RP
-```lua
-soon
-```
+- Brookhaven RP
 
-### Build A Boat
-```lua
-soon
-```
+- Build A Boat
 
-### Cart Ride Around Nothing
-```lua
-soon
-```
+- Cart Ride Around Nothing
 
-### Cart Ride Into Rtide
-```lua
-soon
-```
+- Cart Ride Into Rtide
 
-### Kat
-```lua
-soon
-```
+- Kat
 
-### Legends Of Speed
-```lua
-soon
-```
+- Legends Of Speed
 
-### Natural Disasters
-```lua
-soon
-```
+- Natural Disasters
 
-### Tower Of Hell
-```lua
-soon
-```
+- Tower Of Hell
 
-### Trench War
-```lua
-soon
-```
+- Trench War
