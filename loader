@@ -1,1 +1,1 @@
-print("soon")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Universal"))()
