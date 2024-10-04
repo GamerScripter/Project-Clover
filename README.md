@@ -7,7 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project
 ```
 
 # Supported Games
-- Universal  (Not Released)
+- Universal
 
 - 30008 (Not Released)
 
