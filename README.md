@@ -27,4 +27,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project
 
 - Tower Of Hell (Not Released)
 
-- Trench War (Not Released)
+- Trench War
