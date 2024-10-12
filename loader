@@ -3,7 +3,6 @@ local ids = {
     6654918151 -- Trench War
 }
 
-
 if game.PlaceId == ids[1] then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Trench-Of-Hell"))()
 elseif game.PlaceId == ids[2] then
