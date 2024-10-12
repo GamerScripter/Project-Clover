@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project
 
 - Legends Of Speed (Not Released)
 
-- Natural Disasters Survival (Not Released)
+- Natural Disasters Survival
 
 - Tower Of Hell
 
