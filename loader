@@ -8,7 +8,7 @@ if game.PlaceId == ids[1] then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Natural-Disaster-Survival"))()
 elseif game.PlaceId == ids[2] then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Trench-Of-Hell"))()
-elseif game.PlaceId == ids[2] then
+elseif game.PlaceId == ids[3] then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Trench-War"))()
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Universal"))()
