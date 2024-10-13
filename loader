@@ -1,6 +1,6 @@
 local ids = {
-    189707 -- Natural Disaster Survival
-    1962086868 -- Tower Of Hell
+    189707, -- Natural Disaster Survival
+    1962086868, -- Tower Of Hell
     6654918151 -- Trench War
 }
 
