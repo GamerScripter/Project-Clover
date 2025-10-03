@@ -15,9 +15,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project
 
 - Build A Boat (Not Released)
 
-- Cart Ride Around Nothing (Not Released)
+- Cart Ride Around Nothing
 
-- Cart Ride Into Rtide (Not Released)
+- Cart Ride Into Rtide
 
 - Kat (Not Released)
 
