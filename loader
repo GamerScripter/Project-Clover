@@ -1,5 +1,6 @@
 local ids = {
     10660791703, -- Cart Ride Around Nothing
+    4913581664, -- Cart Ride Into Rtide
     189707, -- Natural Disaster Survival
     1962086868, -- Tower Of Hell
     6654918151 -- Trench War
@@ -8,10 +9,12 @@ local ids = {
 if game.PlaceId == ids[1] then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Cart-Ride-Around-Nothing"))()
 elseif game.PlaceId == ids[2] then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Natural-Disaster-Survival"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Cart-Ride-Into-Rdite"))()
 elseif game.PlaceId == ids[3] then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Trench-Of-Hell"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Natural-Disaster-Survival"))()
 elseif game.PlaceId == ids[4] then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Trench-Of-Hell"))()
+elseif game.PlaceId == ids[5] then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Trench-War"))()
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Project-Clover/main/Games/Universal"))()
